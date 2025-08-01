@@ -1,0 +1,16 @@
+C:\Users\yarok\Desktop\Стасян\4_СЕМ_ЛАБЫ\ООП\lab_04\bin\Debug\lab_04.exe.config
+C:\Users\yarok\Desktop\Стасян\4_СЕМ_ЛАБЫ\ООП\lab_04\bin\Debug\lab_04.exe
+C:\Users\yarok\Desktop\Стасян\4_СЕМ_ЛАБЫ\ООП\lab_04\bin\Debug\lab_04.pdb
+C:\Users\yarok\Desktop\Стасян\4_СЕМ_ЛАБЫ\ООП\lab_04\obj\Debug\lab_04.csproj.AssemblyReference.cache
+C:\Users\yarok\Desktop\Стасян\4_СЕМ_ЛАБЫ\ООП\lab_04\obj\Debug\MainWindow.g.cs
+C:\Users\yarok\Desktop\Стасян\4_СЕМ_ЛАБЫ\ООП\lab_04\obj\Debug\App.g.cs
+C:\Users\yarok\Desktop\Стасян\4_СЕМ_ЛАБЫ\ООП\lab_04\obj\Debug\lab_04_MarkupCompile.cache
+C:\Users\yarok\Desktop\Стасян\4_СЕМ_ЛАБЫ\ООП\lab_04\obj\Debug\lab_04_MarkupCompile.lref
+C:\Users\yarok\Desktop\Стасян\4_СЕМ_ЛАБЫ\ООП\lab_04\obj\Debug\MainWindow.baml
+C:\Users\yarok\Desktop\Стасян\4_СЕМ_ЛАБЫ\ООП\lab_04\obj\Debug\lab_04.g.resources
+C:\Users\yarok\Desktop\Стасян\4_СЕМ_ЛАБЫ\ООП\lab_04\obj\Debug\lab_04.Properties.Resources.resources
+C:\Users\yarok\Desktop\Стасян\4_СЕМ_ЛАБЫ\ООП\lab_04\obj\Debug\lab_04.csproj.GenerateResource.cache
+C:\Users\yarok\Desktop\Стасян\4_СЕМ_ЛАБЫ\ООП\lab_04\obj\Debug\lab_04.csproj.CoreCompileInputs.cache
+C:\Users\yarok\Desktop\Стасян\4_СЕМ_ЛАБЫ\ООП\lab_04\obj\Debug\lab_04.exe
+C:\Users\yarok\Desktop\Стасян\4_СЕМ_ЛАБЫ\ООП\lab_04\obj\Debug\lab_04.pdb
+C:\Users\yarok\Desktop\Стасян\4_СЕМ_ЛАБЫ\ООП\lab_04\obj\Debug\GeneratedInternalTypeHelper.g.cs
