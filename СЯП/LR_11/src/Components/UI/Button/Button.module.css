@@ -1,0 +1,7 @@
+.button {
+    background-color: transparent;
+    border: 2px solid teal;
+    padding: 5px 15px;
+    cursor: pointer;
+    color: teal;
+}
