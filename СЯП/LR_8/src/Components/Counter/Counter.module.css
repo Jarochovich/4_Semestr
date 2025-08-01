@@ -1,0 +1,32 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-evenly;
+    border: 2px solid #60d8fb;
+    border-radius: 5px;
+    width: 25vw;
+    height: 30vh;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    gap: 10px;
+
+    
+}
+
+.counter {
+    color: #60d8fb;
+}
+
+
+@media (max-width: 1080px) {
+    .buttons {
+        flex-direction: column;
+    }
+}
