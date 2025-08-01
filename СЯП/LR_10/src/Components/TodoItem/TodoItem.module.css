@@ -1,0 +1,32 @@
+.task {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid teal;
+    margin-top: 15px;
+    padding: 15px;
+}
+
+.content {
+    max-width: 35vw;
+    padding-right: 15px;
+}
+
+.body {
+    display: flex;
+    gap: 20px;
+    word-break: break-all;
+}
+
+.task_btn {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.task_operations {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
