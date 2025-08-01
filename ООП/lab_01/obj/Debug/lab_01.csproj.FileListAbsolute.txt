@@ -1,0 +1,10 @@
+C:\Users\yarok\Desktop\Стасян\4_СЕМ_ЛАБЫ\ООП\lab_01\bin\Debug\lab_01.exe.config
+C:\Users\yarok\Desktop\Стасян\4_СЕМ_ЛАБЫ\ООП\lab_01\bin\Debug\lab_01.exe
+C:\Users\yarok\Desktop\Стасян\4_СЕМ_ЛАБЫ\ООП\lab_01\bin\Debug\lab_01.pdb
+C:\Users\yarok\Desktop\Стасян\4_СЕМ_ЛАБЫ\ООП\lab_01\obj\Debug\lab_01.csproj.AssemblyReference.cache
+C:\Users\yarok\Desktop\Стасян\4_СЕМ_ЛАБЫ\ООП\lab_01\obj\Debug\lab_01.Form1.resources
+C:\Users\yarok\Desktop\Стасян\4_СЕМ_ЛАБЫ\ООП\lab_01\obj\Debug\lab_01.Properties.Resources.resources
+C:\Users\yarok\Desktop\Стасян\4_СЕМ_ЛАБЫ\ООП\lab_01\obj\Debug\lab_01.csproj.GenerateResource.cache
+C:\Users\yarok\Desktop\Стасян\4_СЕМ_ЛАБЫ\ООП\lab_01\obj\Debug\lab_01.csproj.CoreCompileInputs.cache
+C:\Users\yarok\Desktop\Стасян\4_СЕМ_ЛАБЫ\ООП\lab_01\obj\Debug\lab_01.exe
+C:\Users\yarok\Desktop\Стасян\4_СЕМ_ЛАБЫ\ООП\lab_01\obj\Debug\lab_01.pdb

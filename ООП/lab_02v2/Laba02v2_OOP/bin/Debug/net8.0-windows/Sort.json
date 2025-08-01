@@ -1,0 +1,47 @@
+[
+  {
+    "typeComputer": "Laptop ",
+    "ProcessorComputer": "AMD Ryzen 9 5900X x64 L1",
+    "TypeVideoCard": "Built-in ",
+    "typeRAM": "DDR5 ",
+    "sizeRam": 31,
+    "typeMemory": " SSD ",
+    "sizeMemory": 256
+  },
+  {
+    "typeComputer": "Laptop ",
+    "ProcessorComputer": "Intel Core i7 12700K x64 L2",
+    "TypeVideoCard": "Discrete ",
+    "typeRAM": "DDR5 ",
+    "sizeRam": 73,
+    "typeMemory": " SSD ",
+    "sizeMemory": 384
+  },
+  {
+    "typeComputer": "Laptop ",
+    "ProcessorComputer": "AMD Ryzen 7 5800X x86 L2",
+    "TypeVideoCard": "Discrete ",
+    "typeRAM": "DDR5 ",
+    "sizeRam": 49,
+    "typeMemory": " HDD ",
+    "sizeMemory": 128
+  },
+  {
+    "typeComputer": "Workstation ",
+    "ProcessorComputer": "Intel Core i9 12900K x86 L2",
+    "TypeVideoCard": "Built-in ",
+    "typeRAM": "DDR5 ",
+    "sizeRam": 67,
+    "typeMemory": " SSD ",
+    "sizeMemory": 768
+  },
+  {
+    "typeComputer": "Workstation ",
+    "ProcessorComputer": "Intel Core i9 12900K x86 L1",
+    "TypeVideoCard": "Built-in ",
+    "typeRAM": "DDR4 ",
+    "sizeRam": 43,
+    "typeMemory": " SSD ",
+    "sizeMemory": 512
+  }
+]

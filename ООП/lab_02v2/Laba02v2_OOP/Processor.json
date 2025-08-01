@@ -1,0 +1,32 @@
+[
+  {
+    "Manufacturer": "Intel",
+    "Series": "Core i9",
+    "Model": "12900K",
+    "Core": "1",
+    "Frequency": "1",
+    "MaxFrequency": "1",
+    "Opacityy": "x86",
+    "Cash": "L2"
+  },
+  {
+    "Manufacturer": "AMD",
+    "Series": "Ryzen 9",
+    "Model": "5900X",
+    "Core": "1",
+    "Frequency": "1",
+    "MaxFrequency": "1",
+    "Opacityy": "x86",
+    "Cash": "L2"
+  },
+  {
+    "Manufacturer": "Intel",
+    "Series": "Core i7",
+    "Model": "12700K",
+    "Core": "4",
+    "Frequency": "1",
+    "MaxFrequency": "1",
+    "Opacityy": "x64",
+    "Cash": "L1"
+  }
+]

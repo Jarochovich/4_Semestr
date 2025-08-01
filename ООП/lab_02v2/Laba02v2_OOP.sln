@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba02v2_OOP", "Laba02v2_OOP\Laba02v2_OOP.csproj", "{9522E463-2F16-4F53-B57E-793B77C2AC8F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}"
+	ProjectSection(SolutionItems) = preProject
+		Laba02v2_OOP\bin\Debug\net8.0-windows\Processor.json = Laba02v2_OOP\bin\Debug\net8.0-windows\Processor.json
+		Laba02v2_OOP\bin\Debug\net8.0-windows\Sort.json = Laba02v2_OOP\bin\Debug\net8.0-windows\Sort.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9522E463-2F16-4F53-B57E-793B77C2AC8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9522E463-2F16-4F53-B57E-793B77C2AC8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9522E463-2F16-4F53-B57E-793B77C2AC8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9522E463-2F16-4F53-B57E-793B77C2AC8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE6AF3C6-A95C-4F4D-9984-D85957E077D7}
+	EndGlobalSection
+EndGlobal

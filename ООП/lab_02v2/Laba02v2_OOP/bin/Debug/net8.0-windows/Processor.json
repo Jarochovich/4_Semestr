@@ -1,0 +1,102 @@
+[
+  {
+    "Manufacturer": "Intel",
+    "Series": "Core i9",
+    "Model": "12900K",
+    "Core": 2,
+    "Frequency": 2,
+    "MaxFrequency": 2,
+    "Opacityy": "x86",
+    "Cash": "L2"
+  },
+  {
+    "Manufacturer": "AMD",
+    "Series": "Ryzen 9",
+    "Model": "5900X",
+    "Core": 2,
+    "Frequency": 2,
+    "MaxFrequency": 2,
+    "Opacityy": "x64",
+    "Cash": "L1"
+  },
+  {
+    "Manufacturer": "Intel",
+    "Series": "Core i7",
+    "Model": "12700K",
+    "Core": 6,
+    "Frequency": 3,
+    "MaxFrequency": 4,
+    "Opacityy": "x64",
+    "Cash": "L3"
+  },
+  {
+    "Manufacturer": "Intel",
+    "Series": "Core i9",
+    "Model": "12900K",
+    "Core": 22,
+    "Frequency": 2,
+    "MaxFrequency": 3,
+    "Opacityy": "x86",
+    "Cash": "L1"
+  },
+  {
+    "Manufacturer": "Intel",
+    "Series": "Core i9",
+    "Model": "12900K",
+    "Core": 5,
+    "Frequency": 3,
+    "MaxFrequency": 4,
+    "Opacityy": "x86",
+    "Cash": "L1"
+  },
+  {
+    "Manufacturer": "AMD",
+    "Series": "Ryzen 5",
+    "Model": "5800X",
+    "Core": 9,
+    "Frequency": 3,
+    "MaxFrequency": 4,
+    "Opacityy": "x86",
+    "Cash": "L3"
+  },
+  {
+    "Manufacturer": "Intel",
+    "Series": "Core i9",
+    "Model": "12900K",
+    "Core": 24,
+    "Frequency": 3,
+    "MaxFrequency": 4,
+    "Opacityy": "x86",
+    "Cash": "L3"
+  },
+  {
+    "Manufacturer": "Intel",
+    "Series": "Core i9",
+    "Model": "12900K",
+    "Core": 1,
+    "Frequency": 2,
+    "MaxFrequency": 3,
+    "Opacityy": "x64",
+    "Cash": "L2"
+  },
+  {
+    "Manufacturer": "Intel",
+    "Series": "Core i7",
+    "Model": "12700K",
+    "Core": 7,
+    "Frequency": 3,
+    "MaxFrequency": 4,
+    "Opacityy": "x64",
+    "Cash": "L2"
+  },
+  {
+    "Manufacturer": "AMD",
+    "Series": "Ryzen 7",
+    "Model": "5800X",
+    "Core": 24,
+    "Frequency": 4,
+    "MaxFrequency": 4,
+    "Opacityy": "x86",
+    "Cash": "L2"
+  }
+]
