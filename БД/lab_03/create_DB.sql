@@ -1,0 +1,1 @@
+CREATE database Yarok_MyBASE;
